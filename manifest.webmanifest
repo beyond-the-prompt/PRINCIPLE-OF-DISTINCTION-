@@ -1,0 +1,28 @@
+{
+ "name": "The Principle of Distinction",
+ "short_name": "Distinction",
+ "description": "A testable framework for how organized systems are determined, related, constrained and sustained, with a proposed index (PDOI) and a quantum experiment built to fail if it is wrong. By William \u201cBilly\u201d Barbeau.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#05060f",
+ "theme_color": "#05060f",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
